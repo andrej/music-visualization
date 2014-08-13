@@ -1,0 +1,4 @@
+tests
+*.pyc
+.DS_Store
+*.swp
